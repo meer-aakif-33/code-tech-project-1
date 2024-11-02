@@ -1,9 +1,9 @@
 # CODETECHITINTERSHIP-TASK-1
-### NAME : SRINIVAS POTHARAJU
+### NAME : AAKIF AHMAD MIR
 ### COMPANY :CODETECH IT SOLUTIONS
 ### ID:CT08DS3454
 ### DOMAIN :MACHINE LEARNING
-### DURATION : JULY TO AUGUST 2024
+### DURATION : OCT TO NOV 2024
 ### MENTOR : Neela Santhosh Kumar 
 # BMI Calculator
 
@@ -95,11 +95,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Acknowledgments
-
-- Thanks to the open-source community for providing valuable resources and tools.
-
----
-
-Feel free to modify this README file to better fit your project's needs.
 
